@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Blog Pertama",
+      "body": "Halo ini deskripsi dengan tanda petik",
+      "author": "Alfian"
+    },
+    {
+      "id": 2,
+      "title": "Blog Kedua",
+      "body": "Halo ini deskripsi dengan tanda petik",
+      "author": "Alfian"
+    },
+    {
+      "id": 3,
+      "title": "Blog Ketiga",
+      "body": "Halo ini deskripsi dengan tanda petik",
+      "author": "Luthfi"
+    }
+  ]
+}
